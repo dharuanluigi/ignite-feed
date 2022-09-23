@@ -1,0 +1,3 @@
+## Ajustes
+
+- Nome na logo
